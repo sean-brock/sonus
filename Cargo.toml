@@ -1,6 +1,7 @@
 [package]
 name = "sonus"
 version = "0.1.0"
+authors = ["Sean Brock"]
 edition = "2024"
 
 [dependencies]
